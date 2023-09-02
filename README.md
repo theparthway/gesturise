@@ -3,8 +3,7 @@ Estimate hand pose using MediaPipe (Python version).<br> This is a sample
 program that recognizes hand signs and finger gestures with a simple MLP using the detected key points. The key points are then assigned to different input controls of the PC.
 <br> 
 
-https://github.com/theparthway/gesturize/assets/64493618/df0e2a03-78a5-40ab-a7db-bb5496b4ac3b
-
+![demo-video](https://github.com/theparthway/gesturize/assets/64493618/92ca8a39-8174-4a68-b4cd-63399941c22e)
 
 # Requirements
 * mediapipe 0.8.1
@@ -112,11 +111,11 @@ The model using "LSTM" is as follows. <br>Please change "use_lstm = False" to "T
 * [MediaPipe](https://mediapipe.dev/)
 
 # Authors
-Parth Shah (https://github.com/theparthway/)
-Vamsi Krishna (https://github.com/trishulam/)
-Sanjitha Rajesh (https://github.com/sanjithaaa03)
-Yilmaas (https://github.com/yilmaas)
-Sneha Maurya (https://sneha1012.github.io/)
+Parth Shah (https://github.com/theparthway/) <br>
+Vamsi Krishna (https://github.com/trishulam/) <br>
+Sanjitha Rajesh (https://github.com/sanjithaaa03) <br>
+Yilmaas (https://github.com/yilmaas) <br>
+Sneha Maurya (https://sneha1012.github.io/) <br>
  
 # License 
 hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
