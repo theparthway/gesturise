@@ -1,6 +1,18 @@
 # Gesturize: Using hand reccognition to control your computer
-Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
-program that recognizes hand signs and finger gestures with a simple MLP using the detected key points. The key points are then assigned to different input controls of the PC.
+Estimate hand pose using MediaPipe (Python version).<br> 
+
+<ul>
+<li>Accurately captures and analyses hand movements in real-time, mapping them to specific actions.</li>
+<li>Integrating gesture based commands to generally manoeuvre the computer.</li>
+<li>Technology Used: Python, Tensorflow, OpenCV, Mediapipe.</li>
+</ul>
+
+Application that allows the user to control their computers using defined hand gestures.
+Accurately captures and analyses hand movements in real-time, mapping them to specific actions.
+Integrating gesture based commands to generally manoeuvre the computer.
+Technology Used: Python, Tensorflow, OpenCV, Mediapipe.
+
+The program recognizes hand signs and finger gestures with a simple MLP using the detected key points. The key points are then assigned to different input controls of the PC.
 <br> 
 
 ![demo-video](https://github.com/theparthway/gesturize/assets/64493618/92ca8a39-8174-4a68-b4cd-63399941c22e)
